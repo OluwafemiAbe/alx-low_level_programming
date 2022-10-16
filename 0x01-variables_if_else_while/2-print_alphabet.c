@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+/**
+ * main - print the alphabet in lower case
+ * followed by new line
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	char ch
+
+	for (ch = a; ch <= b; ch++)
+	{
+		putchar('\n', ch);
+	}
+}
